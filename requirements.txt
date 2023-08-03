@@ -1,0 +1,7 @@
+pyyaml
+google-cloud-aiplatform
+google-auth
+kfp
+pandas
+pyarrow
+db-dtypes
